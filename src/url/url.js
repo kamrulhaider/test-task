@@ -1,5 +1,5 @@
 const url = {
-  mainUrl: "http://localhost:8080",
+  mainUrl: "https://job-test-server-production.up.railway.app",
 };
 
 export default url;
